@@ -22,9 +22,9 @@
 
 Conversation = require 'hubot-conversation'
 
-SWIM_USER = 'foo'
-SWIM_PASS = 'foobar'
-SWIM_SERVER = 'swimlane.example.net'
+SWIM_USER = process.env.SWIM_USER
+SWIM_PASS = process.env.SWIM_PASS
+SWIM_SERVER = process.env.SWIM_SERVER
 COOKIE = null
 authHeader = null
 options =
