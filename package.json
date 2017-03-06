@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/byt3smith/hubot-swimlane"
+    "url": "https://github.com/byt3smith/hubot-swimlane"
   },
   "bugs": {
-    "url": "https://gitlab.com/byt3smith/hubot-swimlane/issues"
+    "url": "https://github.com/byt3smith/hubot-swimlane/issues"
   },
   "peerDependencies": {
     "hubot": "2.x"
