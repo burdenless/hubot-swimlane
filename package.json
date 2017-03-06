@@ -1,7 +1,7 @@
 {
   "name": "hubot-swimlane",
   "description": "A hubot script for automation and operations using Swimlane",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Bob Argenbright <@byt3smith>",
   "license": "MIT",
   "keywords": [
